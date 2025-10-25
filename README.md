@@ -19,4 +19,5 @@ Strategy Helper Logic
 - Tailwind CSS: Used CSS for clean, modern, and responsive styling.
 
 License
+
 **ALL RIGHTS RESERVED**
